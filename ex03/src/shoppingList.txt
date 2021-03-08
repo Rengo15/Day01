@@ -1,0 +1,6 @@
+Shopping list:
+- Apples;
+- Oranges;
+- Bannanas;
+- Cherries;
+- Carrots;
